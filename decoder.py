@@ -1,7 +1,7 @@
 import os
 def rename_file():
     #take all file name in directory
-    file_list = os.listdir(r"C:\Users\Shubham Prakash\Desktop\6Anniversery\surprise")
+    file_list = os.listdir(r"secret")
     #print(file_list)
 
     #rename all those file name

@@ -1,0 +1,23 @@
+# Secret Message and Decoder
+
+This is Secret message maker along with the  message decoder. 
+The message is encrypted in the form ALPHABETS in Jumbled pictures
+to decode it ren the decoder.py file 
+
+
+## INSTALL
+
+Requires Python 3.6
+```
+    Install python 3.6
+```
+Download the Repository in local computer
+```
+    navigate to downloaded directory
+```
+
+open the `decoder.py` file in **python IDLE** 
+```
+    press F5
+```
+

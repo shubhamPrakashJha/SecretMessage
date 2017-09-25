@@ -5,8 +5,7 @@ def rename_file():
     #print(file_list)
 
     #rename all those file name
-    os.chdir(r"C:\Users\Shubham Prakash\Desktop\6Anniversery\surprise"
-             r"")
+    os.chdir(r"secret" r"")
     for file_name in file_list:
         print("old name = "+file_name)
         print("new name = "+ file_name.strip('0123456789'))

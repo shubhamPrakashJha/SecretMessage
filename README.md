@@ -1,8 +1,8 @@
 # Secret Message and Decoder
 
 This is Secret message maker along with the  message decoder. 
-The message is encrypted in the form ALPHABETS in Jumbled pictures
-to decode it ren the decoder.py file 
+The message is encrypted in the form ALPHABETS in Jumbled pictures.
+To decode it run the decoder.py file 
 
 ![PROJECT PICTURE](image/Project.png)
 ## INSTALL
